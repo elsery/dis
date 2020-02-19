@@ -20,7 +20,7 @@
 
 ### 定义返回值类型（必须）
 
-- 因需要判断业务系统执行是否成功，通过DisResponse的方法isSuccess来判断。
+- 因需要判断业务系统执行是否成功，通过DisResponse的方法isSuccess来判断
 
 ```java
 package com.itxiaoer.dis.sample.web;
